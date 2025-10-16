@@ -69,6 +69,7 @@ The dataset contains information about customer transactions such as deposits, w
 
 # MYSQL_CODE
 
+# Show all transactions in the table.
 CREATE DATABASE bank;
 use bank;
 
